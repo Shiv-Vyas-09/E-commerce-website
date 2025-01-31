@@ -81,9 +81,6 @@ Contributions are welcome! To contribute:
 - Push to your fork
 - Create a pull request
 
-## 📜 License
-This project is licensed under the **MIT License**.
-
 ## 📧 Contact
 For any queries or feedback, feel free to reach out:
 
