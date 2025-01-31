@@ -5,7 +5,7 @@ Welcome to the **Fashion E-Commerce Website** repository! This project is a full
 
 ## Website demo
 - https://github.com/user-attachments/assets/485009ce-a3c4-4c01-8b07-0526ac12f072
-- 
+  
 ## 🚀 Features
 - 🛍️ **Product Listings** – Browse through a variety of fashion products.
 - 🔍 **Advanced Search & Filters** – Easily find your desired items.
