@@ -88,14 +88,16 @@ This project is licensed under the **MIT License**.
 For any queries or feedback, feel free to reach out:
 
 - TEAM MEMBER 1
+- DIYA TRAMBADIYA
+- **Email:** diya.trambadiya@marwadiuniversity.ac.in
+- **GitHub:** [diya-trambadiya](https://github.com/diya-trambadiya)
+- **Contribution** Overall design and functionality + Backend
+
+- TEAM MEMBER 2
 - SHIV VYAS 
 - **Email:** shiv.vyas123871@marwadiuniversity.ac.in
 - **GitHub:** [shiv-vyas-09](https://github.com/Shiv-Vyas-09)
 - **Contribution** Backend + Shopify Database
 
-- TEAM MEMBER 2
-- DIYA TRAMBADIYA
-- **Email:** diya.trambadiya@marwadiuniversity.ac.in
-- **GitHub:** [diya-trambadiya](https://github.com/diya-trambadiya)
-- **Contribution** Overall design and functionality + Backend
+
 
